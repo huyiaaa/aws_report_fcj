@@ -1,4 +1,4 @@
-baseURL = "https://github.com/huyiaaa/aws_report_fcj.git"
+baseURL = "https://huyiaaa.github.io/aws_report_fcj/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguageInSubdir = true
