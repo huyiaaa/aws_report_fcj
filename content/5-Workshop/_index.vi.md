@@ -28,7 +28,7 @@ Bạn sẽ học cách:
 
 #### Kiến trúc
 
-![System Architecture](/images/5-Workshop/workshop-architecture.png)
+![System Architecture](/images/5-Workshop/architecture.png)
 
 Kiến trúc được chia thành ba domain chính:
 
